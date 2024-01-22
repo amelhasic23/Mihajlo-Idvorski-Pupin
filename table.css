@@ -1,0 +1,28 @@
+th{
+    background-color: aqua;
+
+
+}
+
+td{ 
+    
+    background-color:yellow
+
+    
+    
+
+}
+.title{
+    font-weight: bold;
+    padding: 15px;
+
+}
+tr{
+    border-style: dashed;
+    color:blueviolet;
+}
+
+table,td,th{
+  border-style: solid;
+
+}

@@ -1,0 +1,64 @@
+body{
+background-color:whitesmoke;
+font-family: 'Times New Roman', Times, serif;
+display: flex;
+min-height: 100vh;
+
+
+
+}
+
+main{
+    display: flex;
+    
+   
+    
+    
+}
+
+
+nav{
+    line-height: 2.5rem;
+    font-size: 1.7em;
+    background-color: beige;
+   
+      
+  
+
+}
+
+article{
+    width: 90%;
+    font-size: 1.5em;
+    font-family: cursive;color: blue;
+    font-weight: bold;
+    font-size: large;
+  background-color: aquamarine;
+   
+
+    
+    
+}
+
+hr{
+    margin-bottom: 2rem;
+
+}
+
+
+nav a{
+    text-decoration: double;
+}
+
+
+nav li{
+    list-style: circle;
+}
+
+
+
+
+
+
+
+
